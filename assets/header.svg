@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Brajesh Pathak - Java Backend Developer</title>
+  <desc id="desc">Dark navy developer banner with gold and green accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101827"/>
+      <stop offset="100%" stop-color="#172f3b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7ee787"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="24" fill="url(#bg)"/>
+  <circle cx="1030" cy="40" r="150" fill="#58a6ff" opacity=".08"/>
+  <circle cx="1100" cy="220" r="120" fill="#7ee787" opacity=".08"/>
+  <path d="M0 210 Q250 150 470 220 T900 190 T1200 205" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55"/>
+  <g fill="#7ee787" opacity=".65">
+    <circle cx="90" cy="45" r="3"/><circle cx="145" cy="78" r="2"/><circle cx="1080" cy="80" r="3"/>
+    <circle cx="980" cy="180" r="2"/><circle cx="1120" cy="145" r="2"/><circle cx="800" cy="42" r="2"/>
+  </g>
+  <text x="600" y="105" text-anchor="middle" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">BRAJESH PATHAK</text>
+  <text x="600" y="150" text-anchor="middle" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="23">JAVA BACKEND DEVELOPER</text>
+  <text x="600" y="185" text-anchor="middle" fill="#7ee787" font-family="monospace" font-size="17">Spring Boot  •  REST APIs  •  MySQL</text>
+</svg>
